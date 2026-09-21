@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/venkatgopijuturi/leetcode/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/venkatgopijuturi/leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0042-trapping-rain-water](https://github.com/venkatgopijuturi/leetcode/tree/master/0042-trapping-rain-water) |
+| [0654-maximum-binary-tree](https://github.com/venkatgopijuturi/leetcode/tree/master/0654-maximum-binary-tree) |
 ## Two Pointers
 |  |
 | ------- |
@@ -27,10 +28,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/venkatgopijuturi/leetcode/tree/master/0042-trapping-rain-water) |
+| [0654-maximum-binary-tree](https://github.com/venkatgopijuturi/leetcode/tree/master/0654-maximum-binary-tree) |
 ## Monotonic Stack
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/venkatgopijuturi/leetcode/tree/master/0042-trapping-rain-water) |
+| [0654-maximum-binary-tree](https://github.com/venkatgopijuturi/leetcode/tree/master/0654-maximum-binary-tree) |
 ## Hash Table
 |  |
 | ------- |
@@ -61,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/venkatgopijuturi/leetcode/tree/master/0004-median-of-two-sorted-arrays) |
+| [0654-maximum-binary-tree](https://github.com/venkatgopijuturi/leetcode/tree/master/0654-maximum-binary-tree) |
 ## Manacher
 |  |
 | ------- |
@@ -69,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0101-symmetric-tree](https://github.com/venkatgopijuturi/leetcode/tree/master/0101-symmetric-tree) |
+| [0654-maximum-binary-tree](https://github.com/venkatgopijuturi/leetcode/tree/master/0654-maximum-binary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -81,4 +86,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0101-symmetric-tree](https://github.com/venkatgopijuturi/leetcode/tree/master/0101-symmetric-tree) |
+| [0654-maximum-binary-tree](https://github.com/venkatgopijuturi/leetcode/tree/master/0654-maximum-binary-tree) |
+## Cartesian Tree
+|  |
+| ------- |
+| [0654-maximum-binary-tree](https://github.com/venkatgopijuturi/leetcode/tree/master/0654-maximum-binary-tree) |
 <!---LeetCode Topics End-->
